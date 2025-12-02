@@ -11,10 +11,11 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2021 (cuando inicié mi carrera en Ingeniería en Datos e Inteligencia Artificial).<br>
-📚 I'm currently learning: High-performance computing, fuzzy control systems, cloud deployments with Docker, ETL pipelines, LLM integration, and scientific data processing.<br>
-🎯 Goals: Convertir mis proyectos en soluciones completas para la industria — desde ETL y APIs hasta dashboards y modelos de IA listos para producción.<br>
-🎲 Fun fact: I break things on purpose just to learn how to fix them (y a veces no se arreglan… pero se aprende).
+✨ Creating bugs since 2021, when I began my journey in the AI and Data Engineering field.<br>
+📚 I'm currently learning high-performance computing, fuzzy control systems, cloud deployments with Docker, ETL pipelines, LLM integration, and scientific data processing.<br>
+🧠 I also have hands-on experience in evolutionary computation, including Evolutionary Strategies (ES), Estimation of Distribution Algorithms (EDA), Particle Swarm Optimization (PSO), and Genetic Algorithms (GA). These have strengthened my understanding of optimization, search spaces, and intelligent agent dynamics.<br>
+🎯 Goals: Transform my academic and personal projects into fully-integrated industry solutions — from ETL systems and APIs to dashboards, forecasting models, and production-ready AI pipelines.<br>
+🎲 Fun fact: I often break things on purpose just to learn how to fix them (sometimes they don't get fixed... but I always learn something).
 </p>
 
 ###
@@ -28,15 +29,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
